@@ -35,3 +35,4 @@ print(np.dot(G,np.dot(K,G.T)))
 #st.norm.cdf(0.5)
 #import scipy.optimize as opt
 #opt.minimize()
+print("hello")
